@@ -1,8 +1,5 @@
 class MergeSort
 
-  def initialize
-  end
-
   def merge(left, right)
     aux = Array.new
 

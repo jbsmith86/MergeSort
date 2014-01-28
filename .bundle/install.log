@@ -1,0 +1,17 @@
+# Logfile created on 2014-01-13 16:20:50 -0800 by logger.rb/44203
+I, [2014-01-13T16:20:50.061335 #37099]  INFO -- : 0:  mime-types (1.25.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-13T16:20:50.061751 #37099]  INFO -- : 0:  mini_portile (0.5.2) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-13T16:20:50.062137 #37099]  INFO -- : 0:  nokogiri (1.6.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-13T16:20:50.062496 #37099]  INFO -- : 0:  rack (1.5.2) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-13T16:20:50.062871 #37099]  INFO -- : 0:  rack-test (0.6.2) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-13T16:20:50.063205 #37099]  INFO -- : 0:  xpath (2.0.0) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-13T16:20:50.063571 #37099]  INFO -- : 0:  capybara (2.2.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-13T16:20:50.063906 #37099]  INFO -- : 0:  cliver (0.3.2) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-01-13T16:20:50.064265 #37099]  INFO -- : 0:  multi_json (1.8.4) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-13T16:20:50.064614 #37099]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-01-13T16:20:50.064943 #37099]  INFO -- : 0:  poltergeist (1.5.0) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/poltergeist-1.5.0.gemspec
+I, [2014-01-13T16:20:50.065227 #37099]  INFO -- : 0:  bundler (1.5.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-01-23T22:10:02.336687 #84382]  INFO -- : 0:  minitest (4.7.5) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-01-23T22:10:02.337077 #84382]  INFO -- : 0:  bundler (1.5.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T16:20:59.312399 #85600]  INFO -- : 0:  minitest (4.7.5) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-01-24T16:20:59.313017 #85600]  INFO -- : 0:  bundler (1.5.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec

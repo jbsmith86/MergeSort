@@ -2,7 +2,6 @@ class MergeSort
 
   def merge(left, right)
     aux = Array.new
-
     until (left.empty? || right.empty?)
       break if (left.first.nil? || right.first.nil?)
       if left.first <= right.first
